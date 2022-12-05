@@ -1,0 +1,2 @@
+# OOconcept
+copied from Ignaced
