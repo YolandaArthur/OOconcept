@@ -8,7 +8,7 @@ public class FileServer extends Node {
     }
 
     public void save(Packet p) {
-        System.out.println("I (" + address + ") SAVED your message: "
+        System.out.println("I (" + address + ") SAVED your message : "
                 + p.getContents());
     }
 
